@@ -28,8 +28,6 @@
 - 📷 I enjoy Bike Riding and capturing beautiful moments.
 - 🌍 I'm a traveler at heart, always eager to explore new places and cultures.
 
-## 📊 GitHub Stats
 
-![Manoj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manoj-pandi&show_icons=true&theme=dark)
 
 
