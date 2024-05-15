@@ -19,8 +19,9 @@
 ## 🛠️ Projects
 
 - 🔨 Check out my latest projects in my [GitHub repositories](https://github.com/manoj-pandi).
-- 🌐 Some of my web development projects include [Project 1](https://github.com/manoj-pandi/Travellers-Tales) and [Project 2](https://github.com/manoj-pandi/project2).
-- 🐍 Explore my Python work in [Python Project](https://github.com/manoj-pandi/python-project).
+- 🌐 Some of my web development projects include [Project 1](https://github.com/manoj-pandi/Travellers-Tales) and [Project 2](https://github.com/manoj-pandi/website).
+- 🐍 Explore my Python work in [Python Project 1](https://github.com/manoj-pandi/Chatbot-GUI).
+- 🐍 Explore my Python work in [Python Project 2](https://github.com/manoj-pandi/GitHub_Coursera).
 
 ## 🌟 Fun Facts
 
