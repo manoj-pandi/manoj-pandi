@@ -6,7 +6,7 @@
 - 🌟 My goal: To become a Full Stack Developer and Python Expert.
 - 🌱 Currently, I'm on a learning spree, exploring various aspects of software development.
 - 💬 Open to collaboration on exciting web projects and Python-related endeavors.
-- 📫 You can reach me at [Your Email Address](mailto:manoj461401@gmail.com.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/a-manoj-pandi461/).
+- 📫 You can reach me at [My Email Address](mailto:manoj461401@gmail.com.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/a-manoj-pandi461/).
 
 ## 🚀 Skills and Interests
 
